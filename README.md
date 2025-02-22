@@ -148,7 +148,7 @@ To run the bot, you'll need to configure a few sensitive variables. Here's how t
 2. Edit `config.py` or set environment variables on Koyeb.
 3. Create a new service, select `Dockerfile` as build type.
 4. Connect your GitHub repo and deploy ✅.
-
+5. Port = 5000
 </details>
 
 ---
